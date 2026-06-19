@@ -48,3 +48,7 @@ The dashboard includes interactive visualizations that allow users to:
 * Data Visualization
 * Dashboard Development
 * Data Storytelling
+
+  ## 📸 Dashboard Preview
+
+![EV Dashboard](ev_dashboard_preview.png)
